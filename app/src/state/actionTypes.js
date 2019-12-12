@@ -1,0 +1,2 @@
+export const GET_QUOTES_BY_PAGE = "GET_QUOTES_BY_PAGE";
+export const GET_RANDOM_QUOTE = "GET_RANDOM_QUOTE";
