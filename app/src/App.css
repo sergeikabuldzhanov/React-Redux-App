@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.quote-card{
+  background-color: #131416;
+  margin: 5px auto;
+  width: 90%;
+  border-radius: 10px;
+}
